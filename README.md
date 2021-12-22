@@ -1,4 +1,8 @@
-# GerenciadorDeTarefas
+# Task Manager
+
+Example app for show and apply the main conceits the Angular.
+
+Application built using instructions from Marcio Casale de Souza.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.4.
 
